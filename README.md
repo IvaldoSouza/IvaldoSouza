@@ -20,7 +20,7 @@ Trabalhei por 25 anos em outra área, mas agora quero trabalhar naquilo que amo,
 <br> 
 <br> 
 <br> 
-<h3>Meus contatos </h3>
+<h3>Meus contatos: </h3>
 
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/IvaldoSouza)](https://github.com/IvaldoSouza)
