@@ -27,7 +27,7 @@ Trabalhei por 25 anos em outra área, mas agora quero trabalhar naquilo que amo,
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitelogo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivaldo-souza)]( https://www.linkedin.com/in/ivaldo-souza)
 
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logo=http://api.whatsapp.com/send?phone=5519991460817)]( http://api.whatsapp.com/send?phone=5519991460817)
+<!-- [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logo=http://api.whatsapp.com/send?phone=5519991460817)]( http://api.whatsapp.com/send?phone=5519991460817) -->
 
 ![IvaldoSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=IvaldoSouza&show_icons=true&theme=onedark)
 
